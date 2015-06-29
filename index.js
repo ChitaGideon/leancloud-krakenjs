@@ -22,6 +22,9 @@ options = {
 
 app = module.exports = express();
 app.use(kraken(options));
+var cloud = require('./lib/cloud');
+//// 加载云代码方法
+app.use(cloud);
 app.on('start', function () {
     console.log('Application ready to serve requests.');
     console.log('Environment: %s', app.kraken.get('env:env'));
