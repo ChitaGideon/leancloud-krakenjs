@@ -30,6 +30,12 @@ avoscloud
 ## 部署到 LeanEngine
 
 
+初始化生产环境
+```
+grunt build
+```
+
+
 部署到测试环境：
 ```
 avoscloud deploy

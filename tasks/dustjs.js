@@ -13,7 +13,7 @@ module.exports = function dustjs(grunt) {
 	                expand: true,
 	                cwd: 'tmp/',
 	                src: '**/*.dust',
-	                dest: '.build/templates',
+	                dest: 'publicBuild/templates',
 	                ext: '.js'
 	            }
 	        ],
