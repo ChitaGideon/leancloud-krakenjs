@@ -1,7 +1,7 @@
 {
-  "name": "easemob",
+  "name": "leancloud-krakenjs",
   "version": "0.1.0",
-  "description": "easemob handle",
+  "description": "krakenjs init in leancloud project",
   "author": "Chita",
   "main": "index.js",
   "scripts": {
