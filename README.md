@@ -3,7 +3,7 @@
 
 一个简单的使用 krakenjs 的 Node.js 应用。
 可以运行在 LeanEngine Node.js 运行时环境。
-
+[![Awesome LeanCloud](https://img.shields.io/badge/Awesome-LeanCloud-47615d.svg)](http://leancloud.sexy)
 ## 本地运行
 
 首先确认本机已经安装 [Node.js](http://nodejs.org/) 运行环境和 [LeanCloud
